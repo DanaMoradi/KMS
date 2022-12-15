@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="sm_font">@dimen/_10ssp</dimen>
+    <dimen name="md_font">@dimen/_12ssp</dimen>
+    <dimen name="lg_font">@dimen/_14ssp</dimen>
+
+    <dimen name="stn_margin">@dimen/_8sdp</dimen>
+    <dimen name="stn_padding">@dimen/_4sdp</dimen>
+
+
+</resources>
